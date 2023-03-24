@@ -1,16 +1,11 @@
-# tic_tac_toe
+Layout de como está sendo montado a tela e seus componentes:
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/97796194/227618722-20bb4a0e-5198-49c9-a9a0-c86ac9038df6.png)
 
-## Getting Started
+Componentes do jogo:
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/97796194/227618834-639f9a28-2a6b-4c18-bf2d-9d0480cc169d.png)
 
-A few resources to get you started if this is your first Flutter project:
+Alert Dialog do jogador que ganhou:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/97796194/227618794-2be2a7f3-2ea8-4a26-9885-bb11b9113034.png)
